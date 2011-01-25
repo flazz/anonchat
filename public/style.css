@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Orbitron';
+  font-size: 18pt;
+}
+
+#buffer {
+  color: greenyellow;
+  padding: 1em;
+}
+
+input {
+  border: thin white solid;
+  background-color: black;
+  color: white;
+  font-family: 'Orbitron';
+  font-size: 18pt;
+}
+
+#message {
+  width:100%;
+}
+
+p {
+  font-weight: 400;
+}
+
+strong {
+  font-weight: 700;
+  color: lime;
+}
